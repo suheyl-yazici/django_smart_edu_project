@@ -1,3 +1,3 @@
 # django_smart_edu_project
 
-7.videodayım
+10.videodayım
